@@ -43,7 +43,9 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+ 
  Vin number, the owner of the car and its model.
+ 
  example : Vin number:4A32B2FF2CE020958
            Owner: John Owner
            Its model: Toyota-Corolla 2015
