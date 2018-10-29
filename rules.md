@@ -26,5 +26,5 @@ we are going to be in touch through different communication channels and make su
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
-
+Be nice and everyone does what they're assigned.
 
