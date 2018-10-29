@@ -54,9 +54,7 @@ We will develop a program for a Wisconsin-based company that sells cars. Our goa
 
     Our class will contain a subclass for the nodes, and methods for inserting, seraching, removing, and sorting the cars along with private helper methods.
 
-Name each interface or class and briefly describe its function or purpose.
-
-
+Hashtable interface, HashTable class
 
 ## Edit and Submit this file and any figures referenced by this document.
 
