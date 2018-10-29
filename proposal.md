@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+We will develop a program for a Wisconsin-based company that sells cars. Our goal is to create an easy way to search cars by creating a database by implemneting a Hash Table made from an Array of Linked Lists. We will sort the cars using their VIN number, and be able to calculate total tax given from the price of the car. 
 
 ## Questions to answer for Exercise #2
 
@@ -45,7 +44,7 @@ Describe at a high level a program that could solve that problem.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
  
-
+    VIN number, price of car, make of car
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
