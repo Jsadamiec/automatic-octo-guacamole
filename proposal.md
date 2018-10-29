@@ -40,6 +40,7 @@ Describe at a high level a program that could solve that problem.
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+  The Year, model, ownner name, the tag number, purchase price and the tax that the ownner should paid for this registration.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
