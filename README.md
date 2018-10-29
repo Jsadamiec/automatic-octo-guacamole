@@ -9,8 +9,8 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:Jsadamiec       name 1:Jacob Adamiec
        * GitHub username 2:shahalireza     name 2:Alireza Shahsafi
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
+       * GitHub username 3:jbahr3          name 3:Jonathan Bahr
+       * GitHub username 4:xhan233         name 4:Xu Han
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
 
