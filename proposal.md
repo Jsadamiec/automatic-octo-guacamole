@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 102 Project Proposal "WisCARson"
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,11 +35,11 @@ We will develop a program for a Wisconsin-based company that sells cars. Our goa
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-   An Vehicle registration system and tax caculator.
+   WisCARson
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-  The Year, model, ownner name, the tag number, purchase price and the tax that the ownner should paid for this registration.
+   The Year, model, ownner name, the tag number, purchase price and the tax that the ownner should paid for this registration.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
@@ -48,13 +48,14 @@ We will develop a program for a Wisconsin-based company that sells cars. Our goa
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
  
- Two textboxes for VIN number and purshase price
+    Two textboxes for VIN number and purshase price along with two buttons, one for inserting and one for searching. Along with text field for the output. 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+    Our class will contain a subclass for the nodes, and methods for inserting, seraching, removing, and sorting the cars along with private helper methods.
 
 Name each interface or class and briefly describe its function or purpose.
+
 
 
 ## Edit and Submit this file and any figures referenced by this document.
