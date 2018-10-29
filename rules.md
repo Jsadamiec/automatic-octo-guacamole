@@ -14,7 +14,7 @@ The leader of our group would be responsible to assign those tasks.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+Everyone is responsible for updating progress on their assigned task, and the group leader is responsible for anyone who doesn't submit for their update.
 
 ## How will will communicate difficulties with a task assigned to us
 
