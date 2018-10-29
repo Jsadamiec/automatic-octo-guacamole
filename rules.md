@@ -18,7 +18,7 @@ Everyone is responsible for updating progress on their assigned task, and the gr
 
 ## How will will communicate difficulties with a task assigned to us
 
-
+We will mention it in group chat and resovle the problem as a group.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
