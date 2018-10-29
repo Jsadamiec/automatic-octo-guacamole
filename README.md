@@ -10,7 +10,7 @@
        * GitHub username 1:Jsadamiec       name 1:Jacob Adamiec
        * GitHub username 2:shahalireza     name 2:Alireza Shahsafi
        * GitHub username 3:jbahr3          name 3:Jonathan Bahr
-       * GitHub username 4:xhan233         name 4:Xu Han
+       * GitHub username 4:xuhan233         name 4:Xu Han
    * When did you complete this exercise? 
    Monday evening
    * How long did it take your team to complete this exercise? 
