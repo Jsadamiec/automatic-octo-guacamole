@@ -12,7 +12,9 @@
        * GitHub username 3:jbahr3          name 3:Jonathan Bahr
        * GitHub username 4:xhan233         name 4:Xu Han
    * When did you complete this exercise? 
+   Monday evening
    * How long did it take your team to complete this exercise? 
+   Hour
 
 ## Table of Contents
 
