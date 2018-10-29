@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-We will assign 
+
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
@@ -22,7 +22,7 @@ We will assign
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+we are going to be in touch through different communication channels and make sure that every one is in the same page and take cares of his responsibilities.
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
