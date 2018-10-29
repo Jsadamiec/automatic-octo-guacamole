@@ -9,12 +9,12 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+We will assign 
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-We will track it well
+
 
 ## How will will communicate difficulties with a task assigned to us
 
