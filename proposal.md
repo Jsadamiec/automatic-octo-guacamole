@@ -44,11 +44,11 @@ We will develop a program for a Wisconsin-based company that sells cars. Our goa
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
  
-    VIN number, price of car, make of car
+    VIN number and purchase price
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
-
+ 
+ Two textboxes for VIN number and purshase price
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
