@@ -39,12 +39,21 @@ We will develop a program for a Wisconsin-based company that sells cars. Our goa
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-   The Year, model, ownner name, the tag number, purchase price and the tax that the ownner should paid for this registration.
+   The Year, model, ownner name, the tag number, purchase price and the tax that the ownner should paid for this  registration.
+   Year: 2003
+   Model: Camry
+   Owner: Jeff
+   Tag Number: 3423954032234
+   Purchase Price: $15,000
+   Tax: $750
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
  
     VIN number and purchase price
+    
+    Enter your VIN: 
+    Enter Price:
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
  
